@@ -36,6 +36,11 @@
   content: "\e902";
   color: #52555c;
 }
+.icon-Arrow-3:before {
+  content: "\e902";
+  color: #52555c;
+  transform:rotate(90deg);
+}
 .icon-Danhsachbieumau:before {
   content: "\e903";
   color: #fff;

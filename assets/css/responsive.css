@@ -1,0 +1,23 @@
+@media only screen and  (min-width : 1024px) and (max-width : 1920px) {
+  .container{
+    width: 1170px;
+  }
+  .logo>img {
+    width: 70px;
+    margin-top: 12px;
+  }
+  .text-logo{
+    font-size: 25px;
+    margin-top: 38px;
+    margin-left: 104px;
+  }
+  header{
+    height: 95px;
+  }
+  .header-content{
+    font-size: 16px;
+  }
+  .sub-tab{
+    height: 140px;
+  }
+}
