@@ -1,23 +1,151 @@
-@media only screen and  (min-width : 1024px) and (max-width : 1920px) {
-  .container{
+@media only screen and (min-width: 1024px) and (max-width: 1920px) {
+  .container {
     width: 1170px;
   }
   .logo>img {
     width: 70px;
     margin-top: 12px;
   }
-  .text-logo{
-    font-size: 25px;
-    margin-top: 38px;
+  .text-logo {
+    font-size: 23px;
+    margin-top: 39px;
     margin-left: 104px;
+    font-weight: 600;
   }
-  header{
+  header {
     height: 95px;
   }
-  .header-content{
+  .header-content {
     font-size: 16px;
   }
-  .sub-tab{
-    height: 140px;
+  .sub-tab {
+    height: 134px;
+    margin-bottom: 25px;
   }
+  .title-tab {
+    font-size: 23px;
+    margin: 0 30px;
+    line-height: 32px;
+  }
+  .domain-tab {
+    font-size: 15px;
+    margin: 0 15px 0 30px;
+    padding: 0;
+  }
+  .detail-tab {
+    font-size: 15px;
+    padding: 0;
+    margin: 0 15px 0 30px;
+  }
+  .resize-search {
+    width: 75px;
+  }
+  .resize-document {
+    width: 53px;
+  }
+  .resize-notable {
+    width: 60px;
+  }
+  .resize-calendar {
+    width: 60px;
+  }
+  .resize-procedure {
+    width: 53px;
+  }
+  .resize-feedback {
+    width: 65px;
+  }
+  .icon-tab {
+    margin-top: 28px;
+  }
+  .border {
+    height: 78px;
+    margin-top: 4px;
+  }
+  .content-tab {
+    margin: 23px 0;
+  }
+  .header-content{
+    margin: 42px auto 0;
+  }
+  .header-content>img{
+    width: 42px;
+  }
+  .icon-hand{
+    left: -55px;
+    top: -4px;
+  }
+  .main-content{
+    margin-top: 40px;
+  }
+  .box-left-tab {
+    padding-left: 14px;
+  }
+  .box-left-tab {
+    padding-right: 14px;
+  }
+  .title{
+    font-size: 22px;
+    margin-left: 82px;
+  }
+  .ic-book {
+    width: 40px;
+    height: 46px;
+  }
+  .icon-header{
+    left: -58px;
+    top: -2px;
+  }
+  .header{
+    margin-top: 35px;
+  }
+  .send-notable{
+    width: 59%;
+  }
+  .info-name{
+    font-size: 19px;
+    margin-bottom: 20px;
+  }
+  .info>p {
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .info-ava{
+    margin-top: 42px;
+    margin-left: 40px;
+    width: 145px;
+    height: 200px;
+  }
+  .info{
+    margin-top: 54px;
+    width: 52%;
+  }
+  .profile{
+    height: 445px;
+  }
+  .content{
+    margin-top: 36px;
+  }
+  .form-notable{
+    font-size: 15px;
+    margin-left: 70px;
+    margin-top: 0;
+  }
+  .inp-notable{
+    width: 300px;
+    height: 47px;
+    font-size: 16px;
+  }
+  .radio-notable input[type='radio']{
+    width: 18px;
+  }
+  .form-notable>p {
+    margin: 23px 0;
+  }
+  .radio-notable{
+    margin: 20px 0;
+  }
+
+
+
 }
